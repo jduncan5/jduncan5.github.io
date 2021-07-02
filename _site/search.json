@@ -1,0 +1,21 @@
+[
+  
+    {
+      "title"    : "Amazon Redesign",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12'> <div class='article__inner'>  <div class='image-wrap'> <a class='article__image' href='/amazon-redesign'> <img src='/images/amazon/1_Homepage_web.png' alt='Amazon Redesign'> </a> </div>  <div class='article__content'> <h2 class='article__title'> <a href='/amazon-redesign'>Amazon Redesign</a> </h2> <p class='article__excerpt'> The Task: Focusing on specific user flows related to product browsing on Amazon.com and determining what the shared user p... </p> <div class='article__meta'> <a href='/about/' class='article__author-link'>Joanna Duncan</a> <span class='article__date'><time datetime='2020-08-01T06:01:35-06:00'>01 Aug 2020</time></span>  </div> </div> </div> </div>",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/amazon-redesign",
+      "date"     : "2020-08-01 06:01:35 -0600"
+    } ,
+  
+    {
+      "title"    : "Redwood Redesign",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12'> <div class='article__inner'>  <div class='image-wrap'> <a class='article__image' href='/redwood-redesign'> <img src='/images/rw/Web_Home.png' alt='Redwood Redesign'> </a> </div>  <div class='article__content'> <h2 class='article__title'> <a href='/redwood-redesign'>Redwood Redesign</a> </h2> <p class='article__excerpt'> The Task: I worked on a team to help redesign a Toronto-based women and children’s shelter, The Redwood. Our goal was to i... </p> <div class='article__meta'> <a href='/about/' class='article__author-link'>Joanna Duncan</a> <span class='article__date'><time datetime='2020-06-01T06:01:35-06:00'>01 Jun 2020</time></span>  </div> </div> </div> </div>",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/redwood-redesign",
+      "date"     : "2020-06-01 06:01:35 -0600"
+    } 
+  
+]
